@@ -1,5 +1,7 @@
 # ResearchGate 简体中文化
 
+<a href="https://raw.githubusercontent.com/shiluodeqiou/researchgate-zh-cn/main/researchgate-zh-cn.user.js"><img src="https://img.shields.io/badge/%E7%9B%B4%E6%8E%A5%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC-%E7%82%B9%E5%87%BB%E5%AE%89%E8%A3%85-2ea44f?style=for-the-badge" alt="直接安装脚本"></a>
+
 这是一个适用于 Tampermonkey、Violentmonkey 等用户脚本管理器的简体中文翻译脚本，用于：
 
 <https://www.researchgate.net/>
